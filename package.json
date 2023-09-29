@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "live-server ."
+  },
+  "devDependencies": {
+    "grapesjs": "^0.21.7",
+    "live-server": "^1.2.2"
+  }
+}
